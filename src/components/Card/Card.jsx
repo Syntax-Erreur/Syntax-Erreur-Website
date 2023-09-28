@@ -8,7 +8,7 @@ import monisha from '../../assets/images/monisha.jpeg'
 import Aryanser from '../../assets/images/Aryanser.png'
 import vedant from '../../assets/images/Vedant.png'
 import rohit from '../../assets/images/rohit.png'
-import arya from '../../assets/images/arya.png'
+// import arya from '../../assets/images/arya.png'
 import bedant from '../../assets/images/bedant.png'
 import vasudha from '../../assets/images/vasudha.png'
 import manas from '../../assets/images/NewNoOne.png'      // change the src once we have pic of manas
@@ -97,17 +97,7 @@ const Card = () => {
       },
       description: 'A valued core member at Syntax Erreur, channeling her passion for design into crafting captivating user friendly experiences as a UX/UI designer.'
     },
-    {
-      image: aboutprofile2,
-      title: {
-        head: 'Arya Sawant',
-        designation: 'UX/UI Designer',
-        img: arya,
-        name: 'Twitter',
-        link: "https://instagram.com/aryasawanttt?igshid=MzRlODBiNWFlZA=="
-      },
-      description: ' A core member at Syntax Erreur, shaping exceptional user experiences as a talented UX/UI designer, combining creativity and technical expertise seamlessly.'
-    },
+ 
 
     {
       image: aboutprofile3,
