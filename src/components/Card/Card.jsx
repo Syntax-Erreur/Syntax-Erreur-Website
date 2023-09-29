@@ -135,9 +135,9 @@ const Card = () => {
               <a className='flex items-center justify-between gap-2 px-5 py-2 text-white transition-all duration-1000 bg-black border border-black rounded-lg connect group hover:text-black hover:bg-white' href={item.title.link} target='_blank'>
                 Connect
                 <img className='block transition-all duration-1000 fill-black group-hover:hidden' xmlns="http://www.w3.org/2000/svg"
-                  width="20" height="20" src="https://img.icons8.com/ios-glyphs/20/ffffff/sort-down.png" alt="sort-down" />
+                  width="20" height="20" src="sort-down.png" alt="sort-down" />
                 <img className='hidden transition-all duration-1000 fill-black group-hover:block' xmlns="http://www.w3.org/2000/svg"
-                  width="20" height="20" src="https://img.icons8.com/ios-glyphs/20/000000/sort-down.png" alt="sort-down" />
+                  width="20" height="20" src="sort-downb.png" alt="sort-down" />
               </a>
               <br />
             </div>
