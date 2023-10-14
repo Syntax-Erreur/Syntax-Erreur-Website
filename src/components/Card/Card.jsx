@@ -13,6 +13,8 @@ import bedant from '../../assets/images/bedant.png'
 import vasudha from '../../assets/images/vasudha.png'
 import manas from '../../assets/images/NewNoOne.png'      // change the src once we have pic of manas
 import kaushik from '../../assets/images/kaushik.png'
+import jacobs from '../../assets/images/jacobs.png'
+
 
 const Card = () => {
   const array = [
@@ -97,6 +99,18 @@ const Card = () => {
       },
       description: 'A valued core member at Syntax Erreur, channeling her passion for design into crafting captivating user friendly experiences as a UX/UI designer.'
     },
+
+    {
+      image: aboutprofile3,
+      title: {
+        head: 'Jacobs Tunmise',
+        designation: 'UI / UX Designer',
+        img: jacobs,
+        name: 'Twitter',
+        link: "https://www.linkedin.com/in/tunmise-jacobs?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+      },
+      description: "An indispensable team member at Syntax Erreur, passionately shaping user-friendly experiences as a UX/UI designer."
+    },
  
 
     {
@@ -110,6 +124,10 @@ const Card = () => {
       },
       description: "The creative social media addict behind Syntax Erreur's instagram presence using marketing strategies to build a strong online presence and engage with our audience effectively.        "
     },
+
+
+
+
 
   ];
 
