@@ -72,7 +72,7 @@ const Contactus = () => {
             <h4 className="text-xl font-normal text-left text-white font-Kanit sm:text-left sm:text-2xl">
               Connect with us on our server
             </h4>
-            <a href="https://discord.gg/4BYKp3Vr" target="_blank" className="py-2.5 px-4 flex items-center justify-center gap-2 bg-white rounded-[30px]  hover:scale-105 transition-all duration-300 ">
+            <a href="https://discord.com/invite/JaUaAdbD" target="_blank" className="py-2.5 px-4 flex items-center justify-center gap-2 bg-white rounded-[30px]  hover:scale-105 transition-all duration-300 ">
               <span className="text-[#0E1B2C] text-xl font-normal tracking-[0.4px]">Discord</span>
               <img src={Arrow} alt="" />
             </a>
