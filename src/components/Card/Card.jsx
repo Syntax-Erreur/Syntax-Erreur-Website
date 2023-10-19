@@ -35,7 +35,7 @@ const Card = () => {
       image: aboutprofile,
       title: {
         head: 'Chamuditha Jayood',
-        designation: 'Founder',
+        designation: 'Founder & CTO',
         img: vedant,
         name: 'Twitter',
         link: "https://www.linkedin.com/in/chamuditha-jayood-a22031217/"
@@ -59,7 +59,7 @@ const Card = () => {
       image: aboutprofile,
       title: {
         head: 'Rohit Ghosh',
-        designation: 'Cofounder',
+        designation: 'Cofounder & COO',
         img: rohit,
         name: 'Instagram',
         link: "https://linktr.ee/RohitGhosh7703"
