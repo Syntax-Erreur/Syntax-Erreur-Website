@@ -24,8 +24,7 @@ const Projectandabout = memo(() => {
           <span class="block w-0 group-hover:w-full   transition-all duration-1000 h-0.5 navLink"></span>
         </h1>
         <p className="w-full sm:w-[87%] text-sm font-medium leading-6 text-left sm:text-lg xl:text-xl xl:leading-8 font-Kanit">
-          SyntaxErreur is a software development company. Over the years, we have successfully partnered with numerous clients on various web and app development projects.
-          Our team is passionate about creating high-quality software and has experience in a variety of programming languages and web development frameworks. We are also committed to providing excellent customer service. SyntaxErreur can help you with all of your software development needs, from web development to app development. We have the experience, expertise, and customer service to help you succeed.
+        At SyntaxErreur, we're more than a software company – we're your strategic tech growth partner. We empower businesses to prosper in the digital era by utilizing cutting-edge technology to achieve long-term success. Our passion for innovation, deep technical expertise, and unwavering commitment to your journey set us apart. Experience the power of teamwork and let SyntaxErreur elevate your business to new heights.
         </p>
       </div>
       {/* white line */}

@@ -48,15 +48,12 @@ const About = memo(() => {
               </div>
               <div className="bg-[#101010] px-8 flex items-stretch justify-center py-8   sm:w-1/2">
                 <p className=" leading-7  text-justify px-3 text-[#1rem]">
-                  At Syntax, we're not just your average IT consulting firm.
-                  We're a team of tech enthusiasts who love what we do. Our
-                  mission? To bring your ideas to life! Whether it's web
-                  development, app development - we've got you covered. We'll
-                  work closely with you to understand your unique needs and
-                  create tailored solutions that make your business thrive. With
-                  us by your side, you'll experience the perfect blend of user
-                  experiance, innovation, and friendly support. Let's embark on
-                  this exciting tech journey together!
+                At Syntax, we're not your average IT consulting firm. 
+                We're your tech dream team, turning ideas into digital reality. 
+                In just 1and half years, we've successfully completed 12+ projects 
+                and aided the growth of 5+ startups with cutting-edge app and web solutions. 
+                Join us on this thrilling tech journey, where innovation meets excellence, and 
+                your success is our mission!
                 </p>
               </div>
             </section>
