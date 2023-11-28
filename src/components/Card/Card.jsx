@@ -46,7 +46,7 @@ const Card = () => {
       image: aboutprofile2,
       title: {
         head: 'Vedant Sawant',
-        designation: 'Cofounder',
+        designation: 'Developer & AI Lead',
         img: bedant,
 
         name: 'Twitter',
@@ -59,7 +59,7 @@ const Card = () => {
       image: aboutprofile,
       title: {
         head: 'Rohit Ghosh',
-        designation: 'Cofounder & COO',
+        designation: 'Developer & COO',
         img: rohit,
         name: 'Instagram',
         link: "https://linktr.ee/RohitGhosh7703"
@@ -70,7 +70,7 @@ const Card = () => {
       image: aboutprofile,
       title: {
         head: 'Manas Mishra',
-        designation: 'Cofounder',
+        designation: 'Developer',
         img: manas,
         name: 'Instagram',
         link: "https://instagram.com/manas_129?igshid=MzRlODBiNWFlZA=="
@@ -81,25 +81,15 @@ const Card = () => {
       image: aboutprofile2,
       title: {
         head: 'Vasudha Singh',
-        designation: 'Operations Head',
+        designation: 'Operations Lead',
         img: vasudha,
 
         name: 'Twitter',
         link: "https://www.linkedin.com/in/vasudha-singh-b61299246/"
       },
       description: ' A vital core member at Syntax Erreur, diligently overseeing operations with exceptional managerial skills, ensuring smooth functioning and efficient execution'
-    }, {
-      image: aboutprofile3,
-      title: {
-        head: 'Monisha Keshwani',
-        designation: 'UI / UX Designer',
-        img: monisha,
-        name: 'Twitter',
-        link: "https://instagram.com/basicbehen?igshid=MzRlODBiNWFlZA=="
-      },
-      description: 'A valued core member at Syntax Erreur, channeling her passion for design into crafting captivating user friendly experiences as a UX/UI designer.'
     },
-
+    
     {
       image: aboutprofile3,
       title: {
@@ -111,13 +101,28 @@ const Card = () => {
       },
       description: "An indispensable team member at Syntax Erreur, passionately shaping user-friendly experiences as a UX/UI designer."
     },
+    
+    
+    {
+      image: aboutprofile3,
+      title: {
+        head: 'Monisha Keshwani',
+        designation: 'UI / UX Designer',
+        img: monisha,
+        name: 'Twitter',
+        link: "https://instagram.com/basicbehen?igshid=MzRlODBiNWFlZA=="
+      },
+      description: 'A valued core member at Syntax Erreur, channeling her passion for design into crafting captivating user friendly experiences as a UX/UI designer.'
+    },
+
+   
  
 
     {
       image: aboutprofile3,
       title: {
         head: 'Kaushik  Patil',
-        designation: 'Social Media Manager',
+        designation: 'Social Lead',
         img: kaushik,
         name: 'Twitter',
         link: "https://instagram.com/kaushikk_who?igshid=MzRlODBiNWFlZA=="
